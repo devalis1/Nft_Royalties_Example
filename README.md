@@ -19,7 +19,7 @@ Nft Minting-transaction with artist / distributor royalties payment simulation u
 
 ### 2. Install Dependencies:
 ```
-$ cd nft_royalties
+$ cd Nft_Royalties_Example
 $ npm install 
 ```
 
